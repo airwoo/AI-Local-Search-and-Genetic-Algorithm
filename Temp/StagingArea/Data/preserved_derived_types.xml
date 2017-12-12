@@ -1,0 +1,9 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="GUI_Controller" preserve="all"/>
+<type fullname="TileData" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.Analytics">
+<type fullname="UnityEngine.Analytics.AnalyticsTracker" preserve="all"/>
+</assembly>
+</linker>
